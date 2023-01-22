@@ -18,6 +18,6 @@ TP JAVA JSP SERVLET
 - Ajout
 - Listes
 - Suppression
-![supp_droit](https://user-images.githubusercontent.com/75427522/213943267-a3a8379f-a1b2-4ca5-ac16-4cc489456557.png)
 ![add_droit](https://user-images.githubusercontent.com/75427522/213943269-05ac4889-25db-46ad-bd59-99358acc6bc9.png)
-![listedroit](https://user-images.githubusercontent.com/75427522/213943271-30684a6e-e2cd-41ab-a16a-b2b6962e2f1f.png)
+![listedroit](https://user-images.githubusercontent.com/75427522/213943271-30684a6e-e2cd-41ab-a16a-b2b6962e2f1f.png)*
+![supp_droit](https://user-images.githubusercontent.com/75427522/213943267-a3a8379f-a1b2-4ca5-ac16-4cc489456557.png)
