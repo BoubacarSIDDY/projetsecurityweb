@@ -14,4 +14,10 @@ TP JAVA JSP SERVLET
 - Suppression d'un compte
 ![listecompte](https://user-images.githubusercontent.com/75427522/213943167-a41328c1-0e94-4e9b-aa90-a55ef1a22d2a.png)
 ![listecomptesuppression](https://user-images.githubusercontent.com/75427522/213943171-ed8f812a-9619-4667-adfc-80565acdf0e7.png)
-
+4- Ajout des droits
+- Ajout
+- Listes
+- Suppression
+![supp_droit](https://user-images.githubusercontent.com/75427522/213943267-a3a8379f-a1b2-4ca5-ac16-4cc489456557.png)
+![add_droit](https://user-images.githubusercontent.com/75427522/213943269-05ac4889-25db-46ad-bd59-99358acc6bc9.png)
+![listedroit](https://user-images.githubusercontent.com/75427522/213943271-30684a6e-e2cd-41ab-a16a-b2b6962e2f1f.png)
