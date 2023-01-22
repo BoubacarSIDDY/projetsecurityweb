@@ -1,3 +1,6 @@
 # projetsecurityweb
 TP JAVA JSP SERVLET
-![filtercapture](https://user-images.githubusercontent.com/75427522/213941927-e2b0dcd6-74e2-4c15-8cc5-8faca61b5aba.png)
+Note page de login:
+- nous avons utilisés les filtres pour empecher l'utilisateur d'acceder à notre App sans l'authentification
+- en initialisant une variable de session "username"
+![login_code](https://user-images.githubusercontent.com/75427522/213942205-02cb1d65-4f4f-4ebb-8464-f14112186cd6.png)
